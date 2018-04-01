@@ -1,0 +1,26 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "idk",
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "less": "^3.0.1",
+    "moch": "0.0.1"
+  },
+  "scripts": {
+    "style": "lessc style.less style.css"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "advanced"
+  },
+  "keywords": [
+    "si"
+  ],
+  "author": "VonKaffe",
+  "license": "ISC"
+}
